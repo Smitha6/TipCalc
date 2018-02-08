@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginBottom">52dp</dimen>
+    <dimen name="height">64dp</dimen>
+    <dimen name="absoluteY">216dp</dimen>
+    <dimen name="absoluteX">222dp</dimen>
+
+    <dimen name="marginBottom2">128dp</dimen>
+
+    <dimen name="marginBottom3">212dp</dimen>
+
+    <dimen name="width">339dp</dimen>
+    <dimen name="height2">49dp</dimen>
+
+    <dimen name="width2">112dp</dimen>
+
+    <dimen name="marginBottom4">260dp</dimen>
+    <dimen name="height3">44dp</dimen>
+
+    <dimen name="marginBottom5">296dp</dimen>
+</resources>
